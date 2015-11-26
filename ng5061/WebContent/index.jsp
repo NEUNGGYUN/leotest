@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-취업하려면 이거 해야쥥
+다시!  후 다시 수정
 Git Test 2 서정우~wdasdasd 33
 Git Test 2 서정우~wdasdasd
 
