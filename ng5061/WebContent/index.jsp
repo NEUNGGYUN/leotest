@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+커밋후 수정 후 다시 커밋
 Git Test 2 서정우~wdasdasd 33
 Git Test 2 서정우~wdasdasd
 
